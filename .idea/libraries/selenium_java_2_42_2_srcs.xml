@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="selenium-java-2.42.2-srcs">
+    <CLASSES>
+      <root url="jar://C:/selenium/selenium-java-2.42.2.jar!/" />
+      <root url="jar://C:/selenium/selenium-server-standalone-2.42.2.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/dom4j-1.6.1.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-examples-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-excelant-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://C:/Apache/poi-3.10-FINAL/xmlbeans-5.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/selenium/selenium-java-2.42.2-srcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>
